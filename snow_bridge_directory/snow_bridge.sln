@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{06223753-C70D-0D4C-1098-70CB97A01AF2}") = "snow_bridge", "Assembly-CSharp-firstpass.csproj", "{A890385D-6F39-B557-11AA-AD7D77A9CE33}"
+EndProject
+Project("{06223753-C70D-0D4C-1098-70CB97A01AF2}") = "snow_bridge", "Assembly-CSharp.csproj", "{1A091AB0-BF9B-2B19-9AE8-FA9F5F854E64}"
+EndProject
+Project("{06223753-C70D-0D4C-1098-70CB97A01AF2}") = "snow_bridge", "Assembly-CSharp-Editor.csproj", "{64132D16-CF39-F906-1A89-16113C57C2C4}"
+EndProject
+Project("{06223753-C70D-0D4C-1098-70CB97A01AF2}") = "snow_bridge", "Assembly-UnityScript.unityproj", "{16B6AD9D-574E-74E4-8459-7E472FBE618A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A890385D-6F39-B557-11AA-AD7D77A9CE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A890385D-6F39-B557-11AA-AD7D77A9CE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A890385D-6F39-B557-11AA-AD7D77A9CE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A890385D-6F39-B557-11AA-AD7D77A9CE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A091AB0-BF9B-2B19-9AE8-FA9F5F854E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A091AB0-BF9B-2B19-9AE8-FA9F5F854E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A091AB0-BF9B-2B19-9AE8-FA9F5F854E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A091AB0-BF9B-2B19-9AE8-FA9F5F854E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64132D16-CF39-F906-1A89-16113C57C2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64132D16-CF39-F906-1A89-16113C57C2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64132D16-CF39-F906-1A89-16113C57C2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64132D16-CF39-F906-1A89-16113C57C2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B6AD9D-574E-74E4-8459-7E472FBE618A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B6AD9D-574E-74E4-8459-7E472FBE618A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B6AD9D-574E-74E4-8459-7E472FBE618A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B6AD9D-574E-74E4-8459-7E472FBE618A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
